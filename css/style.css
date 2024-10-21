@@ -61,7 +61,7 @@ body{
 
 .header {
     height: 60vh !important;
-    background-image:url(../image/indumentaria-oficial.jpg)  no-repeat center;
+    background-image:url('../image/indumentaria-oficial.jpg')  no-repeat center;
     background-size: cover;
 }
 
