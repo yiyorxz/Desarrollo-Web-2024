@@ -12,7 +12,7 @@ echo '<!DOCTYPE html>
     <!-- Encabezado -->
     <header class="head">
         <div class="logo">
-            <a href="#">Mi Tienda</a>
+            <a href="index.html">Mi Tienda</a>
         </div>
         <nav class="navbar">
             <a href="#productos">Productos</a>
