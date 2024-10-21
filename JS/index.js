@@ -1,5 +1,3 @@
-// Función para mostrar los datos del formulario en una alerta
-document.getElementById('contact-form').addEventListener('submit', function(event) {
 // Función 1: Validar el formulario y evitar el envío si hay errores
 function validarFormulario(event, nombre, correo, mensaje) {
     event.preventDefault();
